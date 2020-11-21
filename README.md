@@ -1,0 +1,2 @@
+# SpectrumAnalyzerMini512Horz
+SpectrumAnalyzerMini512Horz
